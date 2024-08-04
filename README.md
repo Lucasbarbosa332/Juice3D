@@ -6,7 +6,7 @@ A landing page foi desenvolvida utilizando HTML e CSS, com um foco especial na i
 
 <img width=100% src="https://github.com/Lucasbarbosa332/Juice3D/blob/main/Captura%20de%20tela_4-8-2024_185039_127.0.0.1.jpeg"></img>
 
-<img width=100% src=""></img>
+<img width=100% src="https://github.com/Lucasbarbosa332/Juice3D/blob/main/Captura%20de%20tela%202024-08-04%20185404.png"></img>
 
 
 # Características Principais:
