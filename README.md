@@ -12,7 +12,7 @@ A página apresenta um tema dark, que cria um contraste marcante e destaca a lat
 A principal atração da landing page é a lata de suco, que troca de skin ao ser tocada. Essa troca de skin permite que os usuários visualizem diferentes designs do produto, todos criados no Canva. A animação de troca é suave e fluida, proporcionando uma experiência visual agradável.
 
 # Movimento das Rochas:
-# As rochas ao redor da lata de suco não são apenas elementos estáticos. Elas se movem levemente quando o mouse passa sobre elas, adicionando um nível extra de interatividade e dinamismo à página. Esse efeito é alcançado através de animações CSS, que respondem ao movimento do cursor do usuário.
+As rochas ao redor da lata de suco não são apenas elementos estáticos. Elas se movem levemente quando o mouse passa sobre elas, adicionando um nível extra de interatividade e dinamismo à página. Esse efeito é alcançado através de animações CSS, que respondem ao movimento do cursor do usuário.
 
 # Responsividade:
 A landing page é totalmente responsiva, garantindo que a experiência do usuário seja consistente em todos os dispositivos, seja em desktops, tablets ou smartphones. As imagens e animações ajustam-se automaticamente ao tamanho da tela, mantendo a qualidade visual e a usabilidade.
